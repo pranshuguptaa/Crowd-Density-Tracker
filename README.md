@@ -18,7 +18,8 @@ A web app that simulates real-time crowd density tracking using 5G technology, b
 - Libraries: Leaflet.js, Leaflet.heat
 
 ## Demo
-(Add a screenshot or GIF here if you can!)
+![image](https://github.com/user-attachments/assets/4e454866-8f1e-4493-81f6-576b08c36f96)
+
 
 ## Hackathon Context
 Built to showcase 5G’s high-speed data processing for real-time crowd monitoring.
